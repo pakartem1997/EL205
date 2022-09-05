@@ -1,0 +1,37 @@
+-nologo
+-out:c:\Users\artem\OneDrive\Рабочий стол\EL205-1\cvibuild.EL205-1\Debug\EL205-1.exe
+-arch:x86
+-timestamp
+-debug:2
+-loadextmod
+-res:c:\Users\artem\OneDrive\Рабочий стол\EL205-1\cvibuild.EL205-1\Debug\resources.res
+-entry:_CVIWinMainStartupCodeForDebugging@0
+-base:0x400000
+-linked:c:\Users\artem\OneDrive\Рабочий стол\EL205-1\cvibuild.EL205-1\Debug\linkersummary.txt
+-dlldeps:c:\Users\artem\OneDrive\Рабочий стол\EL205-1\cvibuild.EL205-1\Debug\dlldependencies.txt
+-licensing:c:\Users\artem\OneDrive\Рабочий стол\EL205-1\cvibuild.EL205-1\Debug\linkerlicensing.txt
+-browsedeps:c:\Users\artem\OneDrive\Рабочий стол\EL205-1\cvibuild.EL205-1\Debug\moduledependencies.txt
+-stackreserve:1048576
+-stackcommit:4096
+-in:c:\Users\artem\OneDrive\Рабочий стол\EL205-1\cvibuild.EL205-1\Debug\EL205-1.obj
+-more:d:\my programs\cvi\cvi2013\bin\msvc\cvistart.lib
+-more:d:\my programs\cvi\cvi2013\bin\msvc\cvi.lib
+-more:d:\my programs\cvi\cvi2013\sdk\lib\msvc\advapi32.lib
+-more:c:\ProgramData\National Instruments\CVI2013\bin\msvc\analysis.lib
+-more:d:\My programs\CVI\CVI2013\bin\msvc\cviauto.lib
+-more:d:\My programs\CVI\CVI2013\bin\msvc\cviddc.lib
+-more:d:\My programs\CVI\CVI2013\bin\msvc\cvidotnet.lib
+-more:d:\My programs\CVI\CVI2013\bin\msvc\cvinetstreams.lib
+-more:d:\My programs\CVI\CVI2013\bin\msvc\cvinetv.lib
+-more:d:\My programs\CVI\CVI2013\bin\msvc\cvintwrk.lib
+-more:d:\My programs\CVI\CVI2013\bin\msvc\cvitdms.lib
+-more:d:\my programs\cvi\cvi2013\sdk\lib\msvc\gdi32.lib
+-more:d:\My programs\CVI\CVI2013\bin\msvc\gpib.lib
+-more:d:\my programs\cvi\cvi2013\sdk\lib\msvc\kernel32.lib
+-more:d:\My programs\CVI\CVI2013\bin\msvc\nivxi.lib
+-more:d:\My programs\CVI\CVI2013\bin\msvc\omp.lib
+-more:d:\My programs\CVI\CVI2013\toolslib\toolbox\msvc\toolbox.obj
+-more:d:\my programs\cvi\cvi2013\sdk\lib\msvc\user32.lib
+-more:d:\my programs\cvi\cvi2013\sdk\lib\msvc\uuid.lib
+-more:d:\My programs\CVI\Shared\CVI\Bin\msvc\visa.lib
+-more:d:\my programs\cvi\cvi2013\sdk\lib\msvc\winmm.lib

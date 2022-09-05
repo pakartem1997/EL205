@@ -1,0 +1,84 @@
+[main]
+Class="Function"
+Prototype="int main(int argc, char **argv);"
+
+[panelCB]
+Class="Function"
+Prototype="int panelCB(int panel, int event, void *callbackData, int eventData1, int eventData2);"
+
+[CalcCheckSum]
+Class="Function"
+Prototype="int CalcCheckSum(int *array, int lenght);"
+
+[definingCommand]
+Class="Function"
+Prototype="void definingCommand(int *mass, int length);"
+
+[sendCommand]
+Class="Function"
+Prototype="void sendCommand(int *array, int length);"
+
+[ShowBytes]
+Class="Function"
+Prototype="void ShowBytes(char *str, int *mass, int lengthMass);"
+
+[SetMessage]
+Class="Function"
+Prototype="void SetMessage(char *str);"
+
+[getByte]
+Class="Function"
+Prototype="void getByte();"
+
+[connection]
+Class="Function"
+Prototype="int connection(int panel, int control, int event, void *callbackData, int eventData1, int eventData2);"
+
+[readFromAdapter]
+Class="Function"
+Prototype="int readFromAdapter(int panel, int control, int event, void *callbackData, int eventData1, int eventData2);"
+
+[SendData]
+Class="Function"
+Prototype="int SendData(int panel, int control, int event, void *callbackData, int eventData1, int eventData2);"
+
+[exitCOM]
+Class="Function"
+Prototype="int exitCOM(int panel, int control, int event, void *callbackData, int eventData1, int eventData2);"
+
+[BaudRate]
+Class="Function"
+Prototype="int BaudRate(int panel, int control, int event, void *callbackData, int eventData1, int eventData2);"
+
+[LengthByte]
+Class="Function"
+Prototype="int LengthByte(int panel, int control, int event, void *callbackData, int eventData1, int eventData2);"
+
+[GET_SPEED]
+Class="Function"
+Prototype="int GET_SPEED(int panel, int control, int event, void *callbackData, int eventData1, int eventData2);"
+
+[eventCOM]
+Class="Function"
+Prototype="void eventCOM();"
+
+[SetCurrnet]
+Class="Function"
+Prototype="int SetCurrnet(int panel, int control, int event, void *callbackData, int eventData1, int eventData2);"
+
+[PowerON]
+Class="Function"
+Prototype="int PowerON(int panel, int control, int event, void *callbackData, int eventData1, int eventData2);"
+
+[PowerOFF]
+Class="Function"
+Prototype="int PowerOFF(int panel, int control, int event, void *callbackData, int eventData1, int eventData2);"
+
+[GetMeasure]
+Class="Function"
+Prototype="int GetMeasure(int panel, int control, int event, void *callbackData, int eventData1, int eventData2);"
+
+[StopMeasure]
+Class="Function"
+Prototype="int StopMeasure(int panel, int control, int event, void *callbackData, int eventData1, int eventData2);"
+

@@ -1,0 +1,1 @@
+-force-include-file "EL205-1.c";"c:\Users\artem\OneDrive\Рабочий стол\EL205-1\EL205-1.c" 
